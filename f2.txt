@@ -1,0 +1,12 @@
+Hello My Name is Ankit ,I am from Firozabad and currently I am Persuing B.tech in computer science from Gla University,Mathura,My Hobbies is Singing and live Alone . In previous Classes We Learn About the 
+basics of Git and GitHub .
+
+In Git 
+
+We learn about that How to create a File 
+How to delete a File 
+How to update File 
+How to Remove File 
+Basically these all are CRUD operation,
+
+Step 1 Firstly we create git init
