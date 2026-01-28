@@ -12,6 +12,8 @@
 This project is a **real-world Retail Billing Software (Point of Sale System)** developed using **React.js for the frontend** and **Spring Boot for the backend**.  
 It is suitable for **college projects, internships, freelance work, and real client-based applications**.
 
+##Live demo link- https://www.linkedin.com/posts/ankitgola1304_fullstackdevelopment-springboot-reactjs-activity-7422318021106401283-FGFC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFB_qcMBTYa1bMlBZ9fsSLBiEedFnYrMaP8
+
 The application covers everything from **category & item management** to **billing, payments, and order history**, following industry-level architecture and best practices.
 
 ---
